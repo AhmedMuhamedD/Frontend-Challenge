@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmed Mohamed",
+        "subject": "Math 101",
+        "description": "I am a math teacher with 10 years of experience teaching high school students.",
+        "imgUrl": "https://example.com/ahmed-mohamed.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Fatima Ali",
+        "subject": "English 202",
+        "description": "I am an English teacher with a passion for literature and a deep appreciation for the power of language",
+        "imgUrl": "https://example.com/fatima-ali.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ali Hassan",
+        "subject": "Physics 201",
+        "description": "I am a physicist with a PhD from MIT and over 15 years of experience teaching college-level physics.",
+        "imgUrl": "https://example.com/ali-hassan.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sara Ahmed",
+        "subject": "Biology 301",
+        "description": "I am a biologist with a passion for ecology and conservation. I have worked with NGOs and government gencies ",
+        "imgUrl": "https://example.com/sara-ahmed.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Khalid Abdi",
+        "subject": "Chemistry 202",
+        "description": "I am a chemist with a PhD from Caltech and a passion for teaching. I have developed new materials for solar cells and batteries.",
+        "imgUrl": "https://example.com/khalid-abdi.jpg"
+    }
+]
